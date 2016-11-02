@@ -25,14 +25,25 @@ The current version is **4.2.7**. The `master` branch on GitHub is version
 
 ## Table of Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Requirements](#requirements)
 - [Installation](#installation)
+  - [Installation for Ruby on Rails 4.2+](#installation-for-ruby-on-rails-42)
+  - [Installing with npm and using a Node-based asset pipeline](#installing-with-npm-and-using-a-node-based-asset-pipeline)
+  - [Installing older versions of Bourbon](#installing-older-versions-of-bourbon)
 - [Command Line Interface](#command-line-interface)
+  - [Options](#options)
+  - [Commands](#commands)
 - [Browser Support](#browser-support)
 - [The Bourbon Family](#the-bourbon-family)
 - [Contributing](#contributing)
 - [License](#license)
 - [About](#about)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
 
